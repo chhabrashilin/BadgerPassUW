@@ -1,0 +1,16 @@
+node_modules
+.next
+dist
+target
+.DS_Store
+.turbo
+.vercel
+.idea
+.env
+.env.local
+.env.*.local
+anchor/target
+app/.next
+app/node_modules
+
+
