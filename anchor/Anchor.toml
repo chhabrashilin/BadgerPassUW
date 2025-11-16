@@ -1,0 +1,17 @@
+[features]
+seeds = true
+
+[programs.devnet]
+badgerpass = "BAdgErPAss111111111111111111111111111111111" # replace after deploy
+
+[registry]
+url = "https://registry.anchor-lang.com"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "node tests/badgerpass.js"
+
+

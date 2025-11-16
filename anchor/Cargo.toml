@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "programs/badgerpass",
+]
+
+[workspace.dependencies]
+anchor-lang = "0.29.0"
+
+
